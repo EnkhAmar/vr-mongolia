@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> VR Lab Mongolia</title>
     <!-- favicon -->
-    <link rel="shortcut icon" href="{{ asset('favicon.ico')}}" type="image/x-icon">
+    <link rel="shortcut icon" href="storage/static/logo/fav.png" type="image/x-icon">
     <!-- bootstrap -->
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
     <!-- fontawesome icon  -->
