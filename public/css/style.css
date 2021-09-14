@@ -4318,9 +4318,10 @@ span.icon.play-button {
 }
 
 .affiliate .part-img img.vr {
-    width: 585px;
+    width: 100%;
     max-width: auto;
     height: 420px;
+    object-fit: cover;
     -webkit-transition: all 0.3s ease-in;
     -moz-transition: all 0.3s ease-in;
     -o-transition: all 0.3s ease-in;
