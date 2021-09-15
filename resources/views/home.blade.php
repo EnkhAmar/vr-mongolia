@@ -500,9 +500,9 @@
                 @if($content->id % 2 != 0)
                 <div class="row justify-content-between virtual_reality">
                     <div class="col-xl-6 col-lg-6 col-sm-6">
-                        <div class="part-img">
+                        {{-- <div class="part-img"> --}}
                             <img src="/storage/{{ $content->image }}" alt="affiliate" class="vr">
-                        </div>
+                        {{-- </div> --}}
                     </div>
                     <div class="col-xl-6 col-lg-6 col-sm-6 d-xl-flex d-lg-flex d-block align-items-center">
                         <div class="part-txt">
@@ -546,9 +546,9 @@
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6 col-sm-6 d-xl-flex d-lg-flex d-block align-items-center">
-                        <div class="part-img">
+                        {{-- <div class="part-img"> --}}
                             <img src="/storage/{{ $content->image }}" alt="image" class="vr-lab">
-                        </div>
+                        {{-- </div> --}}
                     </div>
                 </div>
                 @endif
