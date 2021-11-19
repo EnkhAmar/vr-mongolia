@@ -169,7 +169,7 @@
                                             <i class="fa fa-phone"></i>
                                         </span>
                                         <span class="text">
-                                            +976 80005854
+                                            +976 70007222
                                         </span>
                                     </a>
                                 </li>
@@ -655,10 +655,10 @@
                                     </div>
                                     <div class="single-box">
                                         <div class="part-icon">
-                                            <i class="fas fa-phone"></i>
+                                            <i class="fas "></i>
                                         </div>
                                         <div class="txt">
-                                            <p>+976 80005854</p>
+                                            <p>+976 70007222</p>
                                         </div>
                                     </div>
                                     <div class="single-box">
@@ -758,7 +758,7 @@
                                         <i class="fas fa-phone"></i>
                                     </div>
                                     <div class="txt">
-                                        <p>+976 80005854</p>
+                                        <p>+976 70007222</p>
                                     </div>
                                 </div>
                                 <div class="social">
